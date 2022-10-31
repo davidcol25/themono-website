@@ -24,3 +24,4 @@ pnpm-debug.log*
 
 # Nuxt 3 files
 .nuxt
+.output
