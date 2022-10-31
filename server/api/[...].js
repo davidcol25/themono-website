@@ -1,0 +1,1 @@
+export default defineEventHandler((event) => $fetch(`https://api.coinlore.net${event.req.url}`))
